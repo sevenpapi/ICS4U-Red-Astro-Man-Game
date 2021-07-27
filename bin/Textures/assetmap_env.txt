@@ -1,0 +1,28 @@
+curb_diffuse, curb_diffuse.png, tiled
+curb_metalness, curb_metalness.png, tiled
+curb_normal, curb_normal.png, tiled
+floor_diffuse, floor_diffuse.png, tiled
+floor_metalness, floor_metalness.png, tiled
+floor_normal, floor_normal.png, tiled
+wall_diffuse, wall_diffuse.png, tiled
+wall_metalness, wall_metalness.png, tiled
+wall_normal, wall_normal.png, tiled
+metal_diff, metal_diffuse.jpg, tiled
+metal_norm, metal_normal.jpg, tiled
+
+-spatialmaps
+
+name: env_walls, model: env_walls.obj, diffuse: wall_diffuse, normal:wall_normal , metalness: wall_metalness
+name: env_curb, model: ground_curb.obj, diffuse: curb_diffuse, normal: curb_normal, metalness: curb_metalness
+name: env_ground, model: ground_main.obj, diffuse: floor_diffuse, normal:floor_normal , metalness: floor_metalness
+
+//lamp
+
+name: lamp_body, model: lamp/env_lamp_body.obj, color: (0.9; 0.9; 0.90; 1)
+name: lamp_tip, model: lamp/env_lamp_tip.obj, color: (0.5; 0.5; 0.50; 1)
+name: lamp_bulb, model: lamp/env_lamp_bulb.obj, color: (0.99; 0.99; 0.6; 1), emission : (1; 1; 0.6; 1)
+
+//ceil
+name: ceil, model: ceil.obj, diffuse: metal_diff, normal: metal_norm
+name: ceil_pipe, model: ceil_pipe.obj, diffuse: curb_diffuse, normal: curb_normal
+name: ceil_lamp, model: ceil_lamp.obj, color: (0.99; 0.99; 0.6; 1), emission : (1; 1; 0.6; 1)

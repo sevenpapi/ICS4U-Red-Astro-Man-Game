@@ -1,0 +1,14 @@
+clock_diff, clock.png
+purple, smoothie.png
+yellow, yellowsmoothie.png
+
+sammich_d, sammydiff.png
+sammich_n, sammynorm.png
+
+-spatialmaps
+
+name: clock, model: clock.obj, diffuse: clock_diff
+name: heart, model: heart.obj, color: (1.0; 0.0; 0.0; 1)
+name: sammich, model: sandwich.obj, diffuse: sammich_d, normal: sammich_n
+name: yellowsmoothie, model: smoothie.obj, diffuse: yellow
+name: purpsmoothie, model: smoothie.obj, diffuse: purple

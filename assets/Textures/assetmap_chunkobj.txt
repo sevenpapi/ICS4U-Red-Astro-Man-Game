@@ -1,0 +1,99 @@
+bed_diffuse, bed_diffuse.png
+big_boiler, big_boiler.png
+pipe1_body, big_machine_body.png
+pipe1_pipe, big_machine_pipe.png
+pipe2, big_pipe_2.png
+center_chair, center_chair.png
+center_chair_spec, center_chair_specular.png
+center_chair_screen, space_screen.png
+center_desk, central_desk.png
+edge_seat, edge_seat.png
+pianodiffuse, pianodiffuse.png
+
+//barrels
+yellowbarrel_d, ones/yellowbarrel.png
+bluebarrel_d, ones/bluebarrel.png
+navybarrel_d, ones/navybarrel.png
+greenbarrel_d, ones/greenbarrel.png
+
+//other ones
+incubator, ones/incubator.png
+wood_diffuse, wood_diffuse.jpg
+leather_diffuse, leather_color.jpg
+leather_normal, leather_normal.jpg
+
+caf_table, caftable.png
+computer_desk_1, computerdesk_1.png
+computer_desk_2, computerdesk_2.png
+electrical_box, electricalbox_diffuse.png
+radio_player, radioplayer.png
+security_desk, securitydesk.png
+
+med_scanner, medscan/medscanner.png
+med_plat, medscan/test_med.jpeg
+med_Rmonitor, medscan/monito2.png
+med_Lmonitor, medscan/medicina.png
+
+//twos
+forklift_d, twos/forklift.png
+gastank3_d, twos/gastank3_diffuse.png
+gastank_d, twos/gastank_diffuse.jpeg
+gastank3_n, twos/gastank3_normal.png
+gastank_n, twos/gastank_normal.jpg
+
+-spatialmaps
+
+name: beds, model: beds.obj, diffuse: bed_diffuse
+name: bigBoiler, model: big_boiler.obj, diffuse: big_boiler
+name: pipe1, model: bigmachine.obj, diffuse: pipe1_body
+name: pipe1_p, model: bigmachine_pipe.obj, diffuse: pipe1_pipe
+name: pipe2, model: pipe2_body.obj, diffuse: pipe2
+name: pipe2_p, model: pipe2_pipe.obj, diffuse: pipe2
+name: centerChair, model: centerchair.obj, diffuse: center_chair, metalness: center_chair_spec
+name: centerChair_screen, model: centerchair_screen.obj, diffuse: center_chair_screen
+name: centerDesk, model: central_desk/central_desk.obj, diffuse: center_desk
+
+name: cafTable, model: caftable.obj, diffuse: caf_table
+name: computerdesk1, model: computerdesk/computerdesk_1.obj, diffuse: computer_desk_1
+name: computerdesk2, model: computerdesk/computerdesk_2.obj, diffuse: computer_desk_2
+
+name: computerdesk1_chair, model: computerdesk/computerdesk_1.obj, color: (0.5; 0.5; 0.50; 1)
+name: computerdesk2_chair, model: computerdesk/computerdesk_2_chair.obj, color: (0.5; 0.5; 0.50; 1)
+
+name: electricalbox, model: electricalbox.obj, diffuse: electrical_box
+name: securitydesk, model: securitydesk.obj, diffuse: security_desk
+
+//twos
+name: radioplayer, model: twos/radioplayer.obj, diffuse: radio_player
+name: piano, model: twos/piano.obj, diffuse: pianodiffuse
+name: forklift1, model: twos/forklift.obj, diffuse: forklift_d
+name: forklift2, model: twos/forklift.obj, diffuse: forklift_d
+name: gastank1, model: twos/gastank.obj, diffuse: gastank_d, normal: gastank_n
+name: gastank2, model: twos/gastank2.obj, diffuse: gastank_d, normal: gastank_n
+name: gastank3, model: twos/gastank3.obj, diffuse: gastank3_d, normal: gastank3_n
+
+//edgeseats
+name: edgeseat1, model: edgeseats/1/desk1.obj, diffuse: edge_seat
+name: edgeseat2, model: edgeseats/2/desk2.obj, diffuse: edge_seat
+name: edgeseat1_chair, model: edgeseats/1/chair1.obj, color: (0.5; 0.5; 0.50; 1)
+name: edgeseat2_chair, model: edgeseats/2/chair2.obj, color: (0.5; 0.5; 0.50; 1)
+
+//medscanner
+name: medbody, model: medscanner/medBody.obj, diffuse: med_scanner
+name: medplat, model: medscanner/medPlat.obj, diffuse: med_plat
+name: medwires, model: medscanner/medWires.obj, diffuse: med_scanner
+name: monitorL, model: medscanner/monitorL.obj, diffuse: med_Lmonitor
+name: monitorR, model: medscanner/monitorR.obj, diffuse: med_Rmonitor
+name: monitorTable, model: medscanner/monitorTbl.obj, diffuse: med_scanner
+
+//ones
+name: incubator, model: ones/incubator.obj, diffuse: incubator
+name: greenbarrel, model: ones/barrel.obj, diffuse: greenbarrel_d
+name: bluebarrel, model: ones/barrel.obj, diffuse: bluebarrel_d
+name: navybarrel, model: ones/barrel.obj, diffuse: navybarrel_d
+name: yellowbarrel, model: ones/barrel.obj, diffuse: yellowbarrel_d
+name: leatherseat, model: ones/leatherseat.obj, diffuse: leather_diffuse
+name: woodtable1, model: ones/woodtable1.obj, color: (0.22; 0.22; 0.22; 1)
+name: woodtable2, model: ones/woodtable2.obj, color: (0.22; 0.22; 0.22; 1)
+name: woodstool, model: ones/woodstool.obj, color: (0.22; 0.22; 0.22; 1)
+name: toilet, model: ones/toilet.obj, color: (0.99; 0.99; 0.99; 1)

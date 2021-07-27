@@ -1,0 +1,7 @@
+diffuse, amogus_albedo.jpg, key
+metalness, amogus_metallic.jpg, key
+normal, amogus_normal.png, key
+
+-spatialmaps
+
+name: player, model: amogus.j3o, diffuse: diffuse, normal: normal , metalness: metalness

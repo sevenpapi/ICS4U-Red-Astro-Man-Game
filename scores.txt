@@ -1,0 +1,10 @@
+dan 200000
+dandan 190000
+dan 180000
+dandan 170000
+dan 160000
+dandan 150000
+dan 140000
+dandan 130000
+dan 120000
+dandan 120000
