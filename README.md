@@ -3,7 +3,7 @@ Red astro man running game; final project for Grade 12 Computer Science -- Semes
 
 I wanted to make a 3D game for the Grade 12 Computer Science final project.
 
-I used a mix of 3D models I made a long time ago and stuff downloaded from the internet.
+I used a mix of 3D models I made a long time ago and stuff downloaded from the internet.\
 Textures were baked using Blender.
 
 Models downloaded online:
@@ -16,10 +16,10 @@ Models downloaded online:
 - [sandwich item](https://sketchfab.com/3d-models/sub-sandwich-game-ready-2k-pbr-b7aa7644a6f9481b89da16eb2b9ca39b)
 - [forklift 😈](https://free3d.com/3d-model/forklift-977987.html)
 
-Gameplay:
+Gameplay:\
 <img src="https://i.imgur.com/GwHCCxY.png" width="600"/>
 
-Menu:
+Menu:\
 <img src="https://media.giphy.com/media/hi99JOEdTJK9uEduTq/giphy.gif" width="600"/>
 
 Java game engine used: [JMonkeyEngine](https://jmonkeyengine.org/)
