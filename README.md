@@ -14,7 +14,7 @@ Models downloaded online:\
 [heart item](https://sketchfab.com/3d-models/heart-6cd8fdfd28d74baab3e5497105499233)\
 [clock item](https://sketchfab.com/3d-models/clock-low-poly-a8bf334c411b4acaa2dcfc827f28ebf6)\
 [sandwich item](https://sketchfab.com/3d-models/sub-sandwich-game-ready-2k-pbr-b7aa7644a6f9481b89da16eb2b9ca39b)\
-[forklift 😈](https://free3d.com/3d-model/forklift-977987.html)\
+[forklift 😈](https://free3d.com/3d-model/forklift-977987.html)
 
 Gameplay:\
 <img src="https://i.imgur.com/GwHCCxY.png" width="600"/>
