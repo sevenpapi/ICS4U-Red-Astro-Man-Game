@@ -1,11 +1,6 @@
 # ICS4U-Red-Astro-Man-Game
 Red astro man running game; final project for Grade 12 Computer Science -- Semester 2, 2021.
 
-I wanted to make a 3D game for the Grade 12 Computer Science final project.
-
-I used a mix of 3D models I made a long time ago and stuff downloaded from the internet.\
-Textures were baked using Blender.
-
 Models downloaded online:\
 [among us map ඞ](https://sketchfab.com/3d-models/among-us-map-the-skeld-59a93886f9e74ff6836dff0c269da45f)\
 [ceiling](https://sketchfab.com/3d-models/imperial-ship-corridor-b2fb87a3f34548a7a334875b626a37c0)\
