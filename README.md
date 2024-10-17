@@ -1,5 +1,5 @@
 # ICS4U-Red-Astro-Man-Game
-Red astro man running game; final project for Grade 12 Computer Science -- Semester 2, 2021.
+Red astro man running game; final project.
 
 Models downloaded online:\
 [among us map ඞ](https://sketchfab.com/3d-models/among-us-map-the-skeld-59a93886f9e74ff6836dff0c269da45f)\
